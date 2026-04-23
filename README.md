@@ -85,3 +85,5 @@
 
 ## ⚡ Motto
 > "I build, I break, I learn, I improve." 🚀
+
+![snake gif](https://github.com/Mustafaesat/Mustafaesat/blob/output/github-contribution-grid-snake-dark.svg)
