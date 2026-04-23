@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mustafa Esat Çalgın</h1>
-<h3 align="center">📱 Mobile Developer (Flutter) | 🤖 AI Enthusiast | ⚙️ Backend Basics</h3>
+<h3 align="center">📱 Mobile Developer (Flutter) | ⚙️ Backend Basics</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real+World+Projects;Learning+AI+%26+Mobile+Development;Always+Improving+🚀&center=true&width=500&height=50">
+  <a href="https://www.linkedin.com/in/mustafaesatcalgin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mustafa%20Esat%20Çalgın-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real+World+Projects;Learning+Mobile+Development;Always+Improving+🚀&center=true&width=500&height=50">
 </p>
 
 ---
